@@ -1,4 +1,4 @@
-# This a quick repair trick for DI-808
+# A field repair trick for DI-808
 
 In rare cases, the DI-808 may fail to boot due to a corrupted file system on its internal memory. To resolve this issue, follow the steps below:
 
