@@ -13,7 +13,7 @@ In rare cases, the DI-808 may fail to boot due to a corrupted file system on its
 
 5. Gently remove the microSD card (it may be secured with a small amount of hot glue).
 
-6. Insert the microSD card into your PC and format it.
+6. Use your PC to format the microSD card.
 
 7. Reinsert the formatted microSD card into the DI-808.
 
